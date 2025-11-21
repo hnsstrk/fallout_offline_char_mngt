@@ -1,0 +1,2497 @@
+{
+  "name": "Rebecca 'Becca' Holt",
+  "type": "character",
+  "img": "tokenizer/pc-images/nadine.Avatar.webp?1739540105713",
+  "system": {
+    "biography": "",
+    "complication": 20,
+    "description": "",
+    "level": {
+      "currentXP": 0,
+      "nextLevelXP": 0,
+      "rewardXP": 0,
+      "value": 4
+    },
+    "origin": "Überlebender / Ödlandbewohner",
+    "trait": "",
+    "body_parts": {
+      "armL": {
+        "injuries": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "injuryOpenCount": 0,
+        "injuryTreatedCount": 0,
+        "resistance": {
+          "energy": 0,
+          "physical": 0,
+          "poison": 0,
+          "radiation": 0
+        },
+        "status": "healthy"
+      },
+      "armR": {
+        "injuries": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "injuryOpenCount": 0,
+        "injuryTreatedCount": 0,
+        "resistance": {
+          "energy": 0,
+          "physical": 0,
+          "poison": 0,
+          "radiation": 0
+        },
+        "status": "healthy"
+      },
+      "head": {
+        "injuries": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "injuryOpenCount": 0,
+        "injuryTreatedCount": 0,
+        "resistance": {
+          "energy": 0,
+          "physical": 0,
+          "poison": 0,
+          "radiation": 0
+        },
+        "status": "healthy"
+      },
+      "legL": {
+        "injuries": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "injuryOpenCount": 0,
+        "injuryTreatedCount": 0,
+        "resistance": {
+          "energy": 0,
+          "physical": 0,
+          "poison": 0,
+          "radiation": 0
+        },
+        "status": "healthy"
+      },
+      "legR": {
+        "injuries": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "injuryOpenCount": 0,
+        "injuryTreatedCount": 0,
+        "resistance": {
+          "energy": 0,
+          "physical": 0,
+          "poison": 0,
+          "radiation": 0
+        },
+        "status": "healthy"
+      },
+      "torso": {
+        "injuries": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "injuryOpenCount": 0,
+        "injuryTreatedCount": 0,
+        "resistance": {
+          "energy": 0,
+          "physical": 0,
+          "poison": 0,
+          "radiation": 0
+        },
+        "status": "healthy"
+      }
+    },
+    "bodyType": "humanoid",
+    "immunities": {
+      "poison": false,
+      "radiation": false
+    },
+    "conditions": {
+      "alcoholic": false,
+      "fatigue": 2,
+      "hunger": 0,
+      "lastChanged": {
+        "hunger": 10061821800,
+        "sleep": 10061821800,
+        "thirst": 10061821800
+      },
+      "intoxication": 0,
+      "sleep": 0,
+      "thirst": 0,
+      "wellRested": false
+    },
+    "defense": {
+      "bonus": 0,
+      "value": 0
+    },
+    "health": {
+      "bonus": 0,
+      "max": 0,
+      "value": 12
+    },
+    "initiative": {
+      "bonus": 0,
+      "value": 0
+    },
+    "luckPoints": 5,
+    "meleeDamage": {
+      "bonus": 0,
+      "value": 0
+    },
+    "radiation": 2,
+    "resistance": {
+      "energy": 0,
+      "physical": 0,
+      "poison": 0,
+      "radiation": 0
+    },
+    "carryWeight": {
+      "base": 0,
+      "encumbranceLevel": 0,
+      "mod": 0,
+      "total": 0,
+      "value": 0
+    },
+    "readMagazines": [],
+    "attributes": {
+      "agi": {
+        "value": 9
+      },
+      "cha": {
+        "value": 4
+      },
+      "end": {
+        "value": 6
+      },
+      "int": {
+        "value": 6
+      },
+      "luc": {
+        "value": 5
+      },
+      "per": {
+        "value": 8
+      },
+      "str": {
+        "value": 5
+      }
+    },
+    "skill": {
+      "tags": {
+        "additionalTags": [],
+        "bonus": 0,
+        "max": 3
+      }
+    },
+    "currency": {
+      "caps": 21,
+      "other": ""
+    },
+    "materials": {
+      "junk": 0,
+      "common": 0,
+      "rare": 0,
+      "uncommon": 0
+    },
+    "chemDoses": {}
+  },
+  "prototypeToken": {
+    "name": "Becca",
+    "displayName": 30,
+    "actorLink": true,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "tokenizer/pc-images/nadine.Token.webp?1739540105713",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": 1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": true,
+      "range": 25,
+      "angle": 160,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": true,
+      "colors": {
+        "ring": "#00d5ff",
+        "background": null
+      },
+      "effects": 7,
+      "subject": {
+        "scale": 1,
+        "texture": "tokenizer/pc-images/nadine.Token.webp?1739540105713"
+      }
+    },
+    "flags": {
+      "splatter": {
+        "bloodColor": ""
+      },
+      "healthEstimate": {
+        "dontMarkDead": false,
+        "hideHealthEstimate": false,
+        "hideName": false
+      }
+    },
+    "randomImg": false,
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null
+  },
+  "items": [
+    {
+      "_id": "5xAG0eRrcvDeJAFk",
+      "effects": [],
+      "folder": null,
+      "img": "systems/fallout/assets/icons/items/skill.webp",
+      "name": "Unarmed",
+      "system": {
+        "description": "<p>The Unarmed skill covers your ability to fight with your fists.</p>\n<p>Its default S.P.E.C.I.A.L. attribute is <strong>Strength</strong> but you might also use Agility, or Charisma when threatening or intimidating someone. You use the Unarmed skill to make unarmed attacks in combat.</p>",
+        "favorite": false,
+        "source": "core_rulebook",
+        "defaultAttribute": "str",
+        "summary": "",
+        "tag": false,
+        "value": 0
+      },
+      "type": "skill",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.344",
+        "systemId": "fallout",
+        "systemVersion": "11.14.3",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "sort": 0,
+      "flags": {},
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "F4uIprrKWh9ApMaU",
+      "effects": [],
+      "folder": null,
+      "img": "systems/fallout/assets/icons/items/skill.webp",
+      "name": "Athletics",
+      "system": {
+        "description": "<p>Athletics describes your ability to apply your physical strength and agility, know your limits, but also how to focus during physical exertion.</p>\n<p>Its default S.P.E.C.I.A.L. attribute is <strong>Strength</strong> but it can also be used with Agility or Endurance when facing physical adversity. You might use Athletics when trying to push, pull, or lift objects, jump, climb, swim, or run.</p>",
+        "favorite": false,
+        "source": "core_rulebook",
+        "defaultAttribute": "str",
+        "summary": "",
+        "tag": false,
+        "value": 2
+      },
+      "type": "skill",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.344",
+        "systemId": "fallout",
+        "systemVersion": "11.14.3",
+        "createdTime": null,
+        "modifiedTime": 1739550355473,
+        "lastModifiedBy": "RBJrp3FBvEgTIMOL",
+        "exportSource": null
+      },
+      "sort": 0,
+      "flags": {},
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "G3mN15diMiTCDZ0U",
+      "effects": [],
+      "folder": null,
+      "img": "systems/fallout/assets/icons/items/skill.webp",
+      "name": "Science",
+      "system": {
+        "description": "<p>The Science skill covers academic and practical knowledge, but is practically applied in the wasteland through computer coding, robotic programming, and brewing chems.</p>\n<p>Its default S.P.E.C.I.A.L. attribute is&nbsp;<strong>Intelligence</strong> but you might use it with Perception to observe a test subject, or Charisma to convince people of something using your scientific knowledge. You use Science to hack computers, brew chems, and solve problems with science!</p>",
+        "favorite": false,
+        "source": "core_rulebook",
+        "defaultAttribute": "int",
+        "summary": "",
+        "tag": false,
+        "value": 0
+      },
+      "type": "skill",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.344",
+        "systemId": "fallout",
+        "systemVersion": "11.14.3",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "sort": 0,
+      "flags": {},
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "HEegw2EUmmEzfdDM",
+      "effects": [],
+      "folder": null,
+      "img": "systems/fallout/assets/icons/items/skill.webp",
+      "name": "Sneak",
+      "system": {
+        "description": "<p>The Sneak skill covers stealthy movement and any physical actions you take not to be noticed.</p>\n<p>Its default S.P.E.C.I.A.L. attribute is <strong>Agility</strong> but you might use it with Perception to find enemies hiding in ambush, or Intelligence to case a building. You use Sneak to move silently or stay hidden.</p>",
+        "favorite": false,
+        "source": "core_rulebook",
+        "defaultAttribute": "agi",
+        "summary": "",
+        "tag": true,
+        "value": 5
+      },
+      "type": "skill",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.344",
+        "systemId": "fallout",
+        "systemVersion": "11.15.6",
+        "createdTime": null,
+        "modifiedTime": 1747329415393,
+        "lastModifiedBy": "RBJrp3FBvEgTIMOL",
+        "exportSource": null
+      },
+      "sort": 0,
+      "flags": {},
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "PEN70F6ovA3g5HI2",
+      "effects": [],
+      "folder": null,
+      "img": "systems/fallout/assets/icons/items/skill.webp",
+      "name": "Pilot",
+      "system": {
+        "description": "<p>The Pilot skill covers your ability to operate vehicles, from buggies and motorcycles, to Vertibirds and tanks.</p>\n<p>Its default S.P.E.C.I.A.L. attribute is <strong>Perception</strong> but you might use Strength to pull a buggy out of a skid, or Agility to land a Vertibird within a tight landing zone. You use Pilot to drive any ground vehicles, or pilot any flying vehicles.</p>",
+        "favorite": false,
+        "source": "core_rulebook",
+        "defaultAttribute": "per",
+        "summary": "",
+        "tag": false,
+        "value": 1
+      },
+      "type": "skill",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.344",
+        "systemId": "fallout",
+        "systemVersion": "11.14.3",
+        "createdTime": null,
+        "modifiedTime": 1739550400947,
+        "lastModifiedBy": "RBJrp3FBvEgTIMOL",
+        "exportSource": null
+      },
+      "sort": 0,
+      "flags": {},
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "R8YnBNUwhZhG89iQ",
+      "effects": [],
+      "folder": null,
+      "img": "systems/fallout/assets/icons/items/skill.webp",
+      "name": "Survival",
+      "system": {
+        "description": "<p>The Survival skill covers all manner of practical bush craft, like hunting, foraging, fishing, building makeshift shelters, and lighting fires.</p>\n<p>Its default S.P.E.C.I.A.L. attribute is <strong>Endurance</strong> but you might also use it with Perception to figure out how long you have until nightfall, or Charisma to charm animals. You might use Survival to build a base camp, or test your resilience against malnourishment or dehydration.</p>",
+        "favorite": false,
+        "source": "core_rulebook",
+        "defaultAttribute": "end",
+        "summary": "",
+        "tag": false,
+        "value": 0
+      },
+      "type": "skill",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.344",
+        "systemId": "fallout",
+        "systemVersion": "11.14.3",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "sort": 0,
+      "flags": {},
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "SH09XavazYU9CqY4",
+      "effects": [],
+      "folder": null,
+      "img": "systems/fallout/assets/icons/items/skill.webp",
+      "name": "Lockpick",
+      "system": {
+        "description": "<p>The Lockpick skill reflects your knowledge of manipulating physical locks and opening them without a key.</p>\n<p>Its default S.P.E.C.I.A.L. attribute is <strong>Perception</strong> but could be used with Agility, or Strength if you&rsquo;re trying to force a door open without breaking the lock. You might use Lockpick to break into a safe, or open a locked door.</p>",
+        "favorite": false,
+        "source": "core_rulebook",
+        "defaultAttribute": "per",
+        "summary": "",
+        "tag": false,
+        "value": 3
+      },
+      "type": "skill",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.347",
+        "systemId": "fallout",
+        "systemVersion": "11.16.4",
+        "createdTime": null,
+        "modifiedTime": 1756482956890,
+        "lastModifiedBy": "gSrXvI8DhbXayDhu",
+        "exportSource": null
+      },
+      "sort": 0,
+      "flags": {},
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "UQ4TLtVUR2kRlYkb",
+      "effects": [],
+      "folder": null,
+      "img": "systems/fallout/assets/icons/items/skill.webp",
+      "name": "Throwing",
+      "system": {
+        "description": "<p>The Throwing skill describes your ability to effectively make attacks with thrown weapons like javelins, knives, and improvised weapons.</p>\n<p>Its default S.P.E.C.I.A.L. attribute is <strong>Agility</strong> but you might also use Strength with heavy objects or Perception to judge distance. You use Throwing to make thrown attacks with specific weapons.</p>",
+        "favorite": false,
+        "source": "core_rulebook",
+        "defaultAttribute": "agi",
+        "summary": "",
+        "tag": false,
+        "value": 1
+      },
+      "type": "skill",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.344",
+        "systemId": "fallout",
+        "systemVersion": "11.14.3",
+        "createdTime": null,
+        "modifiedTime": 1739550488220,
+        "lastModifiedBy": "RBJrp3FBvEgTIMOL",
+        "exportSource": null
+      },
+      "sort": 0,
+      "flags": {},
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "UZDBirrZeUxrAk7b",
+      "effects": [],
+      "folder": null,
+      "img": "systems/fallout/assets/icons/items/skill.webp",
+      "name": "Small Guns",
+      "system": {
+        "description": "<p>The Small Guns skill describes your accuracy and working knowledge of single-shot and automatic pistols, rifles, and shotguns.</p>\n<p>Its default S.P.E.C.I.A.L. attribute is <strong>Agility</strong> but you might use it with Charisma to hold someone at gunpoint or Endurance to remain trained on a target. You use Small Guns to make ranged attacks in combat with pistols, rifles, and shotguns.</p>",
+        "favorite": false,
+        "source": "core_rulebook",
+        "defaultAttribute": "agi",
+        "summary": "",
+        "tag": true,
+        "value": 4
+      },
+      "type": "skill",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.344",
+        "systemId": "fallout",
+        "systemVersion": "11.14.3",
+        "createdTime": null,
+        "modifiedTime": 1739550377510,
+        "lastModifiedBy": "RBJrp3FBvEgTIMOL",
+        "exportSource": null
+      },
+      "sort": 0,
+      "flags": {},
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "UrVd0BmoXkAxmrvv",
+      "effects": [],
+      "folder": null,
+      "img": "systems/fallout/assets/icons/items/skill.webp",
+      "name": "Medicine",
+      "system": {
+        "description": "<p>Medicine is the skill that covers all medical application and knowledge, from first aid to pharmacology, surgery, and healing radiation poisoning.</p>\n<p>Its default S.P.E.C.I.A.L. attribute is <strong>Intelligence</strong>, but you might use Agility to perform surgery, or Charisma to counsel a companion. You use Medicine to stabilize your companions in combat, and help heal their injuries.</p>",
+        "favorite": false,
+        "source": "core_rulebook",
+        "defaultAttribute": "int",
+        "summary": "",
+        "tag": false,
+        "value": 0
+      },
+      "type": "skill",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.344",
+        "systemId": "fallout",
+        "systemVersion": "11.14.3",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "sort": 0,
+      "flags": {},
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "ZQw4TLZbaLm5F0BW",
+      "effects": [],
+      "folder": null,
+      "img": "systems/fallout/assets/icons/items/skill.webp",
+      "name": "Repair",
+      "system": {
+        "description": "<p>Building and repairing items, from guns to buildings, simple traps to complex mechanisms, fall under the Repair skill.</p>\n<p>Its default S.P.E.C.I.A.L. attribute is <strong>Intelligence</strong> but you might use Strength to get some heavy machinery operating again, or Perception to investigate a problem with an engine. You use Repair to fix and modify weapons, repair robots, craft items from scratch, or build defenses.</p>",
+        "favorite": false,
+        "source": "core_rulebook",
+        "defaultAttribute": "int",
+        "summary": "",
+        "tag": false,
+        "value": 0
+      },
+      "type": "skill",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.344",
+        "systemId": "fallout",
+        "systemVersion": "11.14.3",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "sort": 0,
+      "flags": {},
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "dOTrlwZ60XWqegQA",
+      "effects": [],
+      "folder": null,
+      "img": "systems/fallout/assets/icons/items/skill.webp",
+      "name": "Speech",
+      "system": {
+        "description": "<p>The Speech skill covers the techniques you&rsquo;ve learned to communicate with other people, convincing them with strong arguments, or lying to them and not getting caught.</p>\n<p>Its default S.P.E.C.I.A.L. attribute is <strong>Charisma</strong> but you might use it with Intelligence to write a speech, or Perception to figure out how susceptible your mark might be to your lie. You use Speech to convince people of your arguments, inspire others, or convincingly deceive them.</p>",
+        "favorite": false,
+        "source": "core_rulebook",
+        "defaultAttribute": "cha",
+        "summary": "",
+        "tag": false,
+        "value": 0
+      },
+      "type": "skill",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.344",
+        "systemId": "fallout",
+        "systemVersion": "11.14.3",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "sort": 0,
+      "flags": {},
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "ejKiqeUyjkahCjQf",
+      "effects": [],
+      "folder": null,
+      "img": "systems/fallout/assets/icons/items/skill.webp",
+      "name": "Explosives",
+      "system": {
+        "description": "<p>Whether you throw them, place them as a trap, or remotely detonate them, you use the Explosives skill with any kind of explosive device.</p>\n<p>Its default S.P.E.C.I.A.L. attribute is <strong>Perception</strong> but you can also use Strength to throw a grenade as far as you can, or Agility to try to get close to a mine without setting it off. You use Explosives with frag grenades and mines, Molotov cocktails, Nuka grenades, plasma grenades, pulse grenades, mines, and dynamite.</p>",
+        "favorite": false,
+        "source": "core_rulebook",
+        "defaultAttribute": "per",
+        "summary": "",
+        "tag": false,
+        "value": 0
+      },
+      "type": "skill",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.344",
+        "systemId": "fallout",
+        "systemVersion": "11.14.3",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "sort": 0,
+      "flags": {},
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "jAJPNJpHYawNBp2h",
+      "effects": [],
+      "folder": null,
+      "img": "systems/fallout/assets/icons/items/skill.webp",
+      "name": "Energy Weapons",
+      "system": {
+        "description": "<p>Energy Weapons is the skill to use any time you fire energy-based firearms like laser guns, plasma guns, gauss weaponry, and any other small arm that fires a bolt of energy.</p>\n<p>Its default S.P.E.C.I.A.L. attribute is <strong>Perception</strong> but could be used with Intelligence if you were trying to modify and repair an energy weapon, or Agility when you are trying to disarm a trap that uses an energy weapon. You use Energy Weapons with weapons like laser pistols, plasma rifles, the gauss rifle, the microwave emitter, or a laser musket.</p>",
+        "favorite": false,
+        "source": "core_rulebook",
+        "defaultAttribute": "per",
+        "summary": "",
+        "tag": true,
+        "value": 5
+      },
+      "type": "skill",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.344",
+        "systemId": "fallout",
+        "systemVersion": "11.15.6",
+        "createdTime": null,
+        "modifiedTime": 1747329389374,
+        "lastModifiedBy": "RBJrp3FBvEgTIMOL",
+        "exportSource": null
+      },
+      "sort": 0,
+      "flags": {},
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "kCGaEuF27yXyE04i",
+      "effects": [],
+      "folder": null,
+      "img": "systems/fallout/assets/icons/items/skill.webp",
+      "name": "Melee Weapons",
+      "system": {
+        "description": "<p>The Melee Weapons skill describes how able you are to inflict damage and deflect blows with one-handed and two-handed melee weapons.</p>\n<p>Its default S.P.E.C.I.A.L. attribute is <strong>Strength</strong> but you might use Agility to parry a melee attack, or Charisma to threaten someone. You use Melee Weapons to make melee attacks in combat.</p>",
+        "favorite": false,
+        "source": "core_rulebook",
+        "defaultAttribute": "str",
+        "summary": "",
+        "tag": false,
+        "value": 2
+      },
+      "type": "skill",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.344",
+        "systemId": "fallout",
+        "systemVersion": "11.14.3",
+        "createdTime": null,
+        "modifiedTime": 1739550387666,
+        "lastModifiedBy": "RBJrp3FBvEgTIMOL",
+        "exportSource": null
+      },
+      "sort": 0,
+      "flags": {},
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "p3GhRmIwrYTJmuhr",
+      "effects": [],
+      "folder": null,
+      "img": "systems/fallout/assets/icons/items/skill.webp",
+      "name": "Big Guns",
+      "system": {
+        "description": "<p>Big Guns is the skill that describes the training to use large weapons, from Fat Mans to gatling lasers, and everything in between.</p>\n<p>Its default S.P.E.C.I.A.L. attribute is <strong>Endurance</strong> but could also be used with Strength when you need to brace a weapon, or Agility when precision matters. You use Big Guns with weapons like miniguns, rocket launchers, Fat Mans, and gatling lasers.</p>",
+        "favorite": false,
+        "source": "core_rulebook",
+        "defaultAttribute": "end",
+        "summary": "",
+        "tag": true,
+        "value": 3
+      },
+      "type": "skill",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.344",
+        "systemId": "fallout",
+        "systemVersion": "11.14.3",
+        "createdTime": null,
+        "modifiedTime": 1739550369743,
+        "lastModifiedBy": "RBJrp3FBvEgTIMOL",
+        "exportSource": null
+      },
+      "sort": 0,
+      "flags": {},
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "vf1Qszkq1om2Xgmn",
+      "effects": [],
+      "folder": null,
+      "img": "systems/fallout/assets/icons/items/skill.webp",
+      "name": "Barter",
+      "system": {
+        "description": "<p>Barter describes your skill with money: how savvy you are with your wealth, how easily you can make deals, or how easily you can negotiate someone down on price.</p>\n<p>Its default S.P.E.C.I.A.L. attribute is <strong>Charisma</strong> but could also be used with Perception to see how willing someone might be to change their demands, or Intelligence to know the true caps value of something. You might use Barter trying to buy or sell items, or negotiate the cost of a service.</p>",
+        "favorite": false,
+        "source": "core_rulebook",
+        "defaultAttribute": "cha",
+        "summary": "",
+        "tag": false,
+        "value": 0
+      },
+      "type": "skill",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.344",
+        "systemId": "fallout",
+        "systemVersion": "11.14.3",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "sort": 0,
+      "flags": {},
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "UtxZ9Mvdj7wnu1Od",
+      "effects": [],
+      "folder": "ScE7hQRRuS1o4Kau",
+      "img": "systems/fallout/assets/icons/items/weapon.svg",
+      "name": "Laser Musket",
+      "system": {
+        "description": "<p>The laser musket is a homemade form of laser rifle, blending advanced technology with strangely primitive mechanisms, popular with militia groups such as the Minutemen. The laser musket must be manually primed, charging the makeshift capacitor through turning a hand-crank on the weapon&rsquo;s rear. While seemingly crude, they can make for potent sniper&rsquo;s weapons, especially with a modified capacitor able to hold a larger charge.</p>\n<p><strong>Special:</strong> Firing a laser musket consumes two shots of ammunition each time it is fired. Each capacitor mod for the laser musket increases both damage and number of shots consumed. You may reduce the number of shots consumed, reducing the damage by -1 @fos[DC] for each shot consumed fewer than normal (to a minimum of 4 @fos[DC] damage and 1 shot consumed).</p>\n<p>A laser musket can accept one each of the following mods:</p>\n<ul>\n<li><strong>Capacitor:</strong> Three-Crank Capacitor, Four-Crank Capacitor, Five-Crank Capacitor, Six-Crank Capacitor</li>\n<li><strong>Barrel:</strong> Long Barrel, Bracketed Barrel, Bracketed Long Barrel</li>\n<li><strong>Stock:</strong> Full Stock</li>\n<li><strong>Sights:</strong> Reflex Sight, Short Scope, Long Scope, Short Night Vision Scope, Long Night Vision Scope, Recon Scope</li>\n<li><strong>Muzzle:</strong> Beam Splitter, Beam Focuser, Gyro Compensating Lens</li>\n</ul>\n<p>The Capacitor mods for the laser musket are unique to laser muskets and installed with the Science skill. They are presented here, rather than later in this chapter.</p>\n<ul>\n<li><strong>Lazer Musket Capacitor:&nbsp;</strong>Three-crank capacitor, Four-crank capacitor, Five-crank capacitor, Six-crank capacitor</li>\n</ul>\n<p>&nbsp;</p>",
+        "favorite": false,
+        "source": "core_rulebook",
+        "cost": 57,
+        "quantity": 1,
+        "rarity": 1,
+        "stashed": false,
+        "weight": 13,
+        "equippable": true,
+        "equipped": false,
+        "canBeScrapped": true,
+        "isJunk": false,
+        "ammo": "Fusion Cell",
+        "ammoPerShot": 2,
+        "attribute": "",
+        "condition": "",
+        "creatureAttribute": "body",
+        "creatureSkill": "guns",
+        "damage": {
+          "damageEffect": {
+            "arc": {
+              "rank": 0,
+              "value": 0
+            },
+            "breaking": {
+              "rank": 0,
+              "value": 0
+            },
+            "burst": {
+              "rank": 0,
+              "value": 0
+            },
+            "freeze": {
+              "rank": 0,
+              "value": 0
+            },
+            "persistent": {
+              "rank": 0,
+              "value": 0
+            },
+            "piercing_x": {
+              "rank": 1,
+              "value": 1
+            },
+            "radioactive": {
+              "rank": 0,
+              "value": 0
+            },
+            "spread": {
+              "rank": 0,
+              "value": 0
+            },
+            "stun": {
+              "rank": 0,
+              "value": 0
+            },
+            "tranquilize_x": {
+              "rank": 1,
+              "value": 0
+            },
+            "vicious": {
+              "rank": 0,
+              "value": 0
+            }
+          },
+          "damageType": {
+            "energy": true,
+            "physical": false,
+            "poison": false,
+            "radiation": false
+          },
+          "originalDamageType": {
+            "energy": false,
+            "physical": false,
+            "poison": false,
+            "radiation": false
+          },
+          "originalRating": 0,
+          "rating": 5,
+          "weaponQuality": {
+            "accurate": {
+              "rank": 0,
+              "value": 0
+            },
+            "aquatic": {
+              "rank": 0,
+              "value": 0
+            },
+            "ammo_hungry_x": {
+              "rank": 1,
+              "value": 0
+            },
+            "blast": {
+              "rank": 0,
+              "value": 0
+            },
+            "bombard": {
+              "rank": 0,
+              "value": 0
+            },
+            "close_quarters": {
+              "rank": 0,
+              "value": 0
+            },
+            "concealed": {
+              "rank": 0,
+              "value": 0
+            },
+            "debilitating": {
+              "rank": 0,
+              "value": 0
+            },
+            "delay_x": {
+              "rank": 1,
+              "value": 0
+            },
+            "gatling": {
+              "rank": 0,
+              "value": 0
+            },
+            "fuel_x": {
+              "rank": 1,
+              "value": 0
+            },
+            "inaccurate": {
+              "rank": 0,
+              "value": 0
+            },
+            "limited": {
+              "rank": 0,
+              "value": 0
+            },
+            "mine": {
+              "rank": 0,
+              "value": 0
+            },
+            "night_vision": {
+              "rank": 0,
+              "value": 0
+            },
+            "parry": {
+              "rank": 0,
+              "value": 0
+            },
+            "placed": {
+              "rank": 0,
+              "value": 0
+            },
+            "recoil_x": {
+              "rank": 1,
+              "value": 0
+            },
+            "recon": {
+              "rank": 0,
+              "value": 0
+            },
+            "reliable": {
+              "rank": 0,
+              "value": 0
+            },
+            "slow_load": {
+              "rank": 0,
+              "value": 0
+            },
+            "suppressed": {
+              "rank": 0,
+              "value": 0
+            },
+            "surge": {
+              "rank": 0,
+              "value": 0
+            },
+            "thrown": {
+              "rank": 0,
+              "value": 0
+            },
+            "two_handed": {
+              "rank": 0,
+              "value": 1
+            },
+            "unreliable": {
+              "rank": 0,
+              "value": 0
+            },
+            "unstable_radiation": {
+              "rank": 0,
+              "value": 0
+            },
+            "wrangle": {
+              "rank": 0,
+              "value": 0
+            }
+          }
+        },
+        "fireRate": 0,
+        "melee": false,
+        "mods": {
+          "current": 0,
+          "installedMods": "",
+          "list": "",
+          "max": 6,
+          "modded": false
+        },
+        "naturalWeapon": false,
+        "originalAmmoPerShot": 0,
+        "range": "medium",
+        "skill": "",
+        "tear": 0,
+        "weaponType": "energyWeapons"
+      },
+      "type": "weapon",
+      "_stats": {
+        "compendiumSource": "Compendium.fallout.weapons.Item.o1QbQfhTLFphrxkB",
+        "duplicateSource": null,
+        "coreVersion": "13.344",
+        "systemId": "fallout",
+        "systemVersion": "11.15.4",
+        "createdTime": 1739550528667,
+        "modifiedTime": 1746721329840,
+        "lastModifiedBy": "XPIM5aN65eH5LXee",
+        "exportSource": null
+      },
+      "sort": 0,
+      "flags": {},
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "sQKlpliR9zndYvZm",
+      "effects": [],
+      "folder": "8HBxoFI4IGjaL6eX",
+      "img": "systems/fallout/assets/icons/items/weapon.svg",
+      "name": "Baseball Bat",
+      "system": {
+        "description": "<p><span class=\"fontstyle0\">Baseball bats were once used in the sport of baseball, considered America&rsquo;s number-one pastime during the pre-War era. Two hundred years later, they have been re-purposed as crude but effective melee weapons. While most are made a single piece of wood&mdash;normally ash, but other hardwoods are often used&mdash;a few can be found made of aluminum instead, making for a lighter, harder bat.</span></p>\n<p><span class=\"fontstyle0\">A baseball bat can accept one of the following mods which are&nbsp;</span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">. You may only apply mods to an aluminum baseball bat if you have the Blacksmith 1 perk.</span></p>\n<ul>\n<li><strong>Baseball Bat:&nbsp;</strong>Barbed, Spiked, Sharp, Chain-Wrapped, Bladed</li>\n</ul>\n<p>&nbsp;</p>",
+        "favorite": false,
+        "source": "core_rulebook",
+        "cost": 25,
+        "quantity": 1,
+        "rarity": 1,
+        "stashed": false,
+        "weight": 3,
+        "equippable": true,
+        "equipped": false,
+        "canBeScrapped": true,
+        "isJunk": false,
+        "ammo": "",
+        "ammoPerShot": 1,
+        "attribute": "",
+        "condition": "",
+        "creatureAttribute": "body",
+        "creatureSkill": "melee",
+        "damage": {
+          "damageEffect": {
+            "arc": {
+              "rank": 0,
+              "value": 0
+            },
+            "breaking": {
+              "rank": 0,
+              "value": 0
+            },
+            "burst": {
+              "rank": 0,
+              "value": 0
+            },
+            "freeze": {
+              "rank": 0,
+              "value": 0
+            },
+            "persistent": {
+              "rank": 0,
+              "value": 0
+            },
+            "piercing_x": {
+              "rank": 1,
+              "value": 0
+            },
+            "radioactive": {
+              "rank": 0,
+              "value": 0
+            },
+            "spread": {
+              "rank": 0,
+              "value": 0
+            },
+            "stun": {
+              "rank": 0,
+              "value": 0
+            },
+            "tranquilize_x": {
+              "rank": 1,
+              "value": 0
+            },
+            "vicious": {
+              "rank": 0,
+              "value": 0
+            }
+          },
+          "damageType": {
+            "energy": false,
+            "physical": true,
+            "poison": false,
+            "radiation": false
+          },
+          "originalDamageType": {
+            "energy": false,
+            "physical": false,
+            "poison": false,
+            "radiation": false
+          },
+          "originalRating": 0,
+          "rating": 4,
+          "weaponQuality": {
+            "accurate": {
+              "rank": 0,
+              "value": 0
+            },
+            "aquatic": {
+              "rank": 0,
+              "value": 0
+            },
+            "ammo_hungry_x": {
+              "rank": 1,
+              "value": 0
+            },
+            "blast": {
+              "rank": 0,
+              "value": 0
+            },
+            "bombard": {
+              "rank": 0,
+              "value": 0
+            },
+            "close_quarters": {
+              "rank": 0,
+              "value": 0
+            },
+            "concealed": {
+              "rank": 0,
+              "value": 0
+            },
+            "debilitating": {
+              "rank": 0,
+              "value": 0
+            },
+            "delay_x": {
+              "rank": 1,
+              "value": 0
+            },
+            "gatling": {
+              "rank": 0,
+              "value": 0
+            },
+            "fuel_x": {
+              "rank": 1,
+              "value": 0
+            },
+            "inaccurate": {
+              "rank": 0,
+              "value": 0
+            },
+            "limited": {
+              "rank": 0,
+              "value": 0
+            },
+            "mine": {
+              "rank": 0,
+              "value": 0
+            },
+            "night_vision": {
+              "rank": 0,
+              "value": 0
+            },
+            "parry": {
+              "rank": 0,
+              "value": 0
+            },
+            "placed": {
+              "rank": 0,
+              "value": 0
+            },
+            "recoil_x": {
+              "rank": 1,
+              "value": 0
+            },
+            "recon": {
+              "rank": 0,
+              "value": 0
+            },
+            "reliable": {
+              "rank": 0,
+              "value": 0
+            },
+            "slow_load": {
+              "rank": 0,
+              "value": 0
+            },
+            "suppressed": {
+              "rank": 0,
+              "value": 0
+            },
+            "surge": {
+              "rank": 0,
+              "value": 0
+            },
+            "thrown": {
+              "rank": 0,
+              "value": 0
+            },
+            "two_handed": {
+              "rank": 0,
+              "value": 1
+            },
+            "unreliable": {
+              "rank": 0,
+              "value": 0
+            },
+            "unstable_radiation": {
+              "rank": 0,
+              "value": 0
+            },
+            "wrangle": {
+              "rank": 0,
+              "value": 0
+            }
+          }
+        },
+        "fireRate": 0,
+        "melee": false,
+        "mods": {
+          "current": 0,
+          "installedMods": "",
+          "list": "",
+          "max": 0,
+          "modded": false
+        },
+        "naturalWeapon": false,
+        "originalAmmoPerShot": 0,
+        "range": "close",
+        "skill": "",
+        "tear": 0,
+        "weaponType": "meleeWeapons"
+      },
+      "type": "weapon",
+      "_stats": {
+        "compendiumSource": "Compendium.fallout.weapons.Item.d0qmxHsuKN14qmua",
+        "duplicateSource": null,
+        "coreVersion": "13.344",
+        "systemId": "fallout",
+        "systemVersion": "11.15.4",
+        "createdTime": 1739550554102,
+        "modifiedTime": 1746721329870,
+        "lastModifiedBy": "XPIM5aN65eH5LXee",
+        "exportSource": null
+      },
+      "sort": 0,
+      "flags": {},
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "T0CjqwFw5DDkzvAY",
+      "effects": [],
+      "folder": "mtR30GikhQq9bCZw",
+      "img": "systems/fallout/assets/icons/items/apparel.svg",
+      "name": "Tough Clothing",
+      "system": {
+        "description": "<p><span class=\"fontstyle0\">Hard-wearing clothing cobbled together from sufficiently sturdy garments to create an outfit that can withstand a hard life in the wasteland. Normally made from a jacket, a shirt and undershirt, a pair of jeans, and some walking boots, reinforced (or patched) with duct tape, to provide both a little protection against the bumps and scrapes of life and a bit of warmth on those cold nuclear winter nights.</span> </p>\n<p>&nbsp;</p>",
+        "favorite": false,
+        "source": "core_rulebook",
+        "cost": 20,
+        "quantity": 1,
+        "rarity": 1,
+        "stashed": false,
+        "weight": 3,
+        "equippable": true,
+        "equipped": true,
+        "canBeScrapped": true,
+        "isJunk": false,
+        "apparelType": "clothing",
+        "health": {
+          "max": 0,
+          "min": 0,
+          "mod": 0,
+          "value": 0
+        },
+        "location": {
+          "armL": true,
+          "armR": true,
+          "head": false,
+          "legL": true,
+          "legR": true,
+          "torso": true
+        },
+        "mods": {
+          "current": 0,
+          "installedMods": "",
+          "list": "",
+          "max": 0,
+          "modded": false
+        },
+        "powerArmor": {
+          "frameId": "",
+          "isFrame": false,
+          "powered": false
+        },
+        "resistance": {
+          "energy": 1,
+          "physical": 1,
+          "radiation": 0
+        },
+        "shadowed": false
+      },
+      "type": "apparel",
+      "_stats": {
+        "compendiumSource": "Compendium.fallout.apparel.Item.DxWJxT0MuxkbCofe",
+        "duplicateSource": null,
+        "coreVersion": "13.344",
+        "systemId": "fallout",
+        "systemVersion": "11.14.3",
+        "createdTime": 1739550592681,
+        "modifiedTime": 1743098947446,
+        "lastModifiedBy": "RBJrp3FBvEgTIMOL",
+        "exportSource": null
+      },
+      "sort": 0,
+      "flags": {},
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "LUjtlzqNvH66WBNn",
+      "effects": [],
+      "folder": "9NDfhe3GTXdXv3lf",
+      "img": "systems/fallout/assets/icons/items/apparel.svg",
+      "name": "Leather Chest Piece",
+      "system": {
+        "description": "<p><span class=\"fontstyle0\">Made from tanned and treated animal hide, these hardened leather pieces provide modest protection from physical impacts and gunshots, as well as serving to insulate the wearer from fire and other dangerous energies.</span></p>\n<p><span class=\"fontstyle0\">Each piece of leather armor can accept two mods, one of which is a Material, the other of which is an Upgrade. For mods applied to Torso armor, double the weight and cost (this has already been done for Torso Only mods). All Leather Armor Material mods are&nbsp;</span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>\n<ul>\n<li><span class=\"fontstyle0\"><strong>Leather Armor:</strong> Boiled Leather, Girded Leather, Treated Leather, Shadowed Leather, Studded Leather</span></li>\n</ul>\n<p>&nbsp;</p>",
+        "favorite": false,
+        "source": "core_rulebook",
+        "cost": 25,
+        "quantity": 1,
+        "rarity": 1,
+        "stashed": false,
+        "weight": 5,
+        "equippable": true,
+        "equipped": true,
+        "canBeScrapped": true,
+        "isJunk": false,
+        "apparelType": "armor",
+        "health": {
+          "max": 0,
+          "min": 0,
+          "mod": 0,
+          "value": 0
+        },
+        "location": {
+          "armL": false,
+          "armR": false,
+          "head": false,
+          "legL": false,
+          "legR": false,
+          "torso": true
+        },
+        "mods": {
+          "current": 0,
+          "installedMods": "",
+          "list": "",
+          "max": 2,
+          "modded": false
+        },
+        "powerArmor": {
+          "frameId": "",
+          "isFrame": false,
+          "powered": false
+        },
+        "resistance": {
+          "energy": 2,
+          "physical": 1,
+          "radiation": 0
+        },
+        "shadowed": false
+      },
+      "type": "apparel",
+      "_stats": {
+        "compendiumSource": "Compendium.fallout.apparel.Item.hLHlZT5mDbRSzXOp",
+        "duplicateSource": null,
+        "coreVersion": "13.344",
+        "systemId": "fallout",
+        "systemVersion": "11.14.3",
+        "createdTime": 1739550629190,
+        "modifiedTime": 1743098951999,
+        "lastModifiedBy": "RBJrp3FBvEgTIMOL",
+        "exportSource": null
+      },
+      "sort": 0,
+      "flags": {},
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "F8zF1TlPlnb3Aw1d",
+      "effects": [],
+      "folder": "wq5Mhfa0U7SlJgyP",
+      "img": "systems/fallout/assets/icons/items/apparel.svg",
+      "name": "Minutemen Hat",
+      "system": {
+        "description": "<p><span class=\"fontstyle0\">A simple, lightweight hat, normally with a peak or brim to keep the sunlight out of the wearer&rsquo;s eyes.</span></p>\n<p><span class=\"fontstyle2\"><strong>Special:</strong>&nbsp;</span><span class=\"fontstyle0\">A character wearing a casual hat ignores any difficulty increases caused by extremely bright light.</span> <br><br></p>",
+        "favorite": false,
+        "source": "core_rulebook",
+        "cost": 15,
+        "quantity": 1,
+        "rarity": 1,
+        "stashed": false,
+        "weight": 0,
+        "equippable": true,
+        "equipped": true,
+        "canBeScrapped": true,
+        "isJunk": false,
+        "apparelType": "headgear",
+        "health": {
+          "max": 0,
+          "min": 0,
+          "mod": 0,
+          "value": 0
+        },
+        "location": {
+          "armL": false,
+          "armR": false,
+          "head": true,
+          "legL": false,
+          "legR": false,
+          "torso": false
+        },
+        "mods": {
+          "current": 0,
+          "installedMods": "",
+          "list": "",
+          "max": 0,
+          "modded": false
+        },
+        "powerArmor": {
+          "frameId": "",
+          "isFrame": false,
+          "powered": false
+        },
+        "resistance": {
+          "energy": 0,
+          "physical": 0,
+          "radiation": 0
+        },
+        "shadowed": false
+      },
+      "type": "apparel",
+      "_stats": {
+        "compendiumSource": "Compendium.fallout.apparel.Item.hKGbIZhOnncmk7UT",
+        "duplicateSource": null,
+        "coreVersion": "13.344",
+        "systemId": "fallout",
+        "systemVersion": "11.14.3",
+        "createdTime": 1739550833308,
+        "modifiedTime": 1743098956827,
+        "lastModifiedBy": "RBJrp3FBvEgTIMOL",
+        "exportSource": null
+      },
+      "sort": 0,
+      "flags": {},
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "V4ZCx213Jwes64Dl",
+      "effects": [],
+      "folder": null,
+      "img": "systems/fallout/assets/icons/items/ammo.svg",
+      "name": "Fusion Cell",
+      "system": {
+        "description": "<p><span class=\"fontstyle0\">A microfusion cell&mdash;or fusion cell&mdash;is a miniaturized fusion reactor used in light energy weapons. They use volatile hydrogen isotopes which undergo fusion when subjected to extreme heat and pressure, and they can explode if exposed to a significant external heat source. Difficult to refuel without the proper facilities, these cells are often simply disposed of when depleted.</span></p>\n<p><span class=\"fontstyle0\">When fusion cell ammunition is found, it is in the form of a single cell containing the number of shots generated.</span></p>\n<p><strong>Quantity Found:</strong> [[/r 14+7dc # Fusion Cell]]</p>",
+        "favorite": false,
+        "source": "core_rulebook",
+        "cost": 3,
+        "quantity": 8,
+        "rarity": 2,
+        "stashed": false,
+        "weight": 0.028,
+        "charges": {
+          "current": 1,
+          "max": 1
+        },
+        "effect": "",
+        "fusionCore": false,
+        "shots": {
+          "current": 1,
+          "max": 1
+        },
+        "quantityRoll": "14+7dc",
+        "type": ""
+      },
+      "type": "ammo",
+      "_stats": {
+        "compendiumSource": "Compendium.fallout.ammunition.Item.Oc7xNpMREJ8N5u3v",
+        "duplicateSource": null,
+        "coreVersion": "13.346",
+        "systemId": "fallout",
+        "systemVersion": "11.16.2",
+        "createdTime": 1739551038679,
+        "modifiedTime": 1753984315008,
+        "lastModifiedBy": "RBJrp3FBvEgTIMOL",
+        "exportSource": null
+      },
+      "sort": 0,
+      "flags": {},
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "O4TPmUluvR0qOCRW",
+      "effects": [],
+      "folder": null,
+      "img": "systems/fallout/assets/icons/items/perk.svg",
+      "name": "Center Mass",
+      "system": {
+        "description": "<p>When you make a ranged attack, you may choose to strike your target&rsquo;s Torso location (or equivalent, for creatures that use a different location table) without increasing the difficulty of the attack. In addition, you may re-roll 1d20 when making the test for your attack.</p>\n<p><strong>Requirements</strong>: AGI 7</p>",
+        "favorite": false,
+        "source": "core_rulebook",
+        "rank": {
+          "max": 1,
+          "value": 1,
+          "levelIncrease": 0,
+          "levelStart": 1
+        },
+        "requirements": "",
+        "requirementsEx": {
+          "level": 1,
+          "levelIncrease": 0,
+          "attributes": {
+            "str": {
+              "value": 0
+            },
+            "per": {
+              "value": 0
+            },
+            "end": {
+              "value": 0
+            },
+            "cha": {
+              "value": 0
+            },
+            "int": {
+              "value": 0
+            },
+            "agi": {
+              "value": 7
+            },
+            "luc": {
+              "value": 0
+            }
+          },
+          "isCompanion": false,
+          "magazineUuids": [],
+          "notGhoul": false,
+          "notHuman": false,
+          "notRadiationImmune": false,
+          "notRobot": false,
+          "notSupermutant": false
+        }
+      },
+      "type": "perk",
+      "_stats": {
+        "compendiumSource": "Compendium.fallout.perks.Item.Nc22rM5RB37dOPcO",
+        "duplicateSource": null,
+        "coreVersion": "13.344",
+        "systemId": "fallout",
+        "systemVersion": "11.15.4",
+        "createdTime": 1739551523863,
+        "modifiedTime": 1746721331083,
+        "lastModifiedBy": "XPIM5aN65eH5LXee",
+        "exportSource": null
+      },
+      "sort": 0,
+      "flags": {},
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "mXZQXgjMpO4cBJyJ",
+      "effects": [],
+      "folder": null,
+      "img": "systems/fallout/assets/icons/items/miscellany.svg",
+      "name": "Pip-Boy",
+      "system": {
+        "description": "<p>A Personal Information Processor manufactured by RobCo Industries. Under partnership with Vault-Tec, they were issued to many vault residents, though due to production constraints and ongoing development, different vaults received shipments of different versions of the Pip-Boy. The versions most encountered are variants of the Pip-Boy 2000 and Pip-Boy 3000, which are designed to be secured upon the wearer&rsquo;s wrist. Many models were designed with biometric locks, preventing them from being removed while the wearer still lives.</p>\n<p>A Pip-Boy is powered by an internal fission battery, providing a working lifespan for the device far greater than the expected life of its wearer (and, indeed, many Pip-Boys have been handed down within communities or families as heirlooms), and the device itself is sturdy enough to withstand basically anything.</p>\n<p>Not all Pip-Boys contain the same functions, but the common functions are:</p>\n<ul>\n<li>A personal status indicator allows the wearer to see a report on their current health and wellbeing and any medical problems currently afflicting them.</li>\n<li>The device maintains an ongoing log of the wearer&rsquo;s activities, journey, and condition, and place for personal recordings to be made in either text or audio forms.</li>\n<li>An inbuilt holotape reader allows the device to accept compact holotapes, able to read and playback audio, video, data, and even games.</li>\n<li>It also functions as a compass, a radio, and a Geiger counter, and can generate light from its screen equivalent to a flashlight.</li>\n</ul>\n<p>In addition, all Pip-Boy units aid their wearer during combat thanks to the Vault-Tec Assisted Targeting System, or V.A.T.S. A character equipped with a Pip-Boy may use V.A.T.S. when they make an attack, ignoring the normal difficulty increase for targeting a specific location on the enemy.</p>",
+        "favorite": false,
+        "source": "core_rulebook",
+        "cost": 0,
+        "quantity": 1,
+        "rarity": 0,
+        "stashed": false,
+        "weight": 0,
+        "canBeScrapped": true,
+        "isJunk": false,
+        "effect": "<p>See description</p>"
+      },
+      "type": "miscellany",
+      "_stats": {
+        "compendiumSource": "Compendium.fallout.miscellany.Item.Fkgwa1FrCdfQPvhl",
+        "duplicateSource": null,
+        "coreVersion": "13.344",
+        "systemId": "fallout",
+        "systemVersion": "11.14.3",
+        "createdTime": 1739552442869,
+        "modifiedTime": 1739552442869,
+        "lastModifiedBy": "RBJrp3FBvEgTIMOL",
+        "exportSource": null
+      },
+      "sort": 0,
+      "flags": {},
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "EP0eorX00HxfGvMF",
+      "effects": [],
+      "folder": "Yz1YYU8QjGg1Lrdb",
+      "img": "systems/fallout/assets/icons/items/books_and_magz.svg",
+      "name": "Duck and Cover!",
+      "system": {
+        "description": "<p>A pre-War book about the manufacture, use, and disarming of explosives.</p>\n<ul>\n<li>Perk: Once, when you are affected by a Blast weapon, you may choose to fall prone (p.25). If you do so, you add +3 to all damage resistances against the damage caused by that Blast. If you later learn this perk, you may use whenever you are affected by a Blast weapon by spending 1 AP.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.gD1wycvvp1ivtXdY]{Duck and Cover!}</p>",
+        "favorite": false,
+        "source": "core_rulebook",
+        "cost": 100,
+        "quantity": 1,
+        "rarity": 3,
+        "stashed": false,
+        "weight": 0,
+        "effect": "<p>Once, when you are affected by a Blast weapon, you may choose to fall prone (p.25). If you do so, you add +3 to all damage resistances against the damage caused by that Blast.</p>",
+        "publication": "",
+        "read": false,
+        "uses": {
+          "max": 1,
+          "value": 0
+        }
+      },
+      "type": "books_and_magz",
+      "_stats": {
+        "compendiumSource": "Compendium.fallout.books_and_magz.Item.ZTVTUHilc84UzoRP",
+        "duplicateSource": null,
+        "coreVersion": "13.344",
+        "systemId": "fallout",
+        "systemVersion": "11.15.4",
+        "createdTime": 1740683721834,
+        "modifiedTime": 1746721328352,
+        "lastModifiedBy": "XPIM5aN65eH5LXee",
+        "exportSource": null
+      },
+      "sort": 0,
+      "flags": {},
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "2ApVRRO9qpm3HSEB",
+      "effects": [],
+      "folder": "IoEvCm1c8TK0ekL7",
+      "img": "systems/fallout/assets/icons/items/perk.svg",
+      "name": "Duck and Cover!",
+      "system": {
+        "description": "<p>Once, when you are affected by a Blast weapon, you may choose to fall prone (p.25). If you do so, you add +3 to all damage resistances against the damage caused by that Blast. If you later learn this perk, you may use whenever you are affected by a Blast weapon by spending 1 AP.</p>",
+        "favorite": false,
+        "source": "core_rulebook",
+        "rank": {
+          "max": 1,
+          "value": 0,
+          "levelIncrease": 0,
+          "levelStart": 1
+        },
+        "requirements": "",
+        "requirementsEx": {
+          "level": 1,
+          "levelIncrease": 0,
+          "attributes": {
+            "str": {
+              "value": 0
+            },
+            "per": {
+              "value": 0
+            },
+            "end": {
+              "value": 0
+            },
+            "cha": {
+              "value": 0
+            },
+            "int": {
+              "value": 0
+            },
+            "agi": {
+              "value": 0
+            },
+            "luc": {
+              "value": 0
+            }
+          },
+          "isCompanion": false,
+          "magazineUuids": [
+            "Compendium.fallout.books_and_magz.Item.ZTVTUHilc84UzoRP"
+          ],
+          "notGhoul": false,
+          "notHuman": false,
+          "notRadiationImmune": false,
+          "notRobot": false,
+          "notSupermutant": false
+        }
+      },
+      "type": "perk",
+      "_stats": {
+        "compendiumSource": "Compendium.fallout.perks.Item.gD1wycvvp1ivtXdY",
+        "duplicateSource": null,
+        "coreVersion": "13.344",
+        "systemId": "fallout",
+        "systemVersion": "11.15.4",
+        "createdTime": 1740685451397,
+        "modifiedTime": 1746721331129,
+        "lastModifiedBy": "XPIM5aN65eH5LXee",
+        "exportSource": null
+      },
+      "sort": 0,
+      "flags": {},
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "ZHdNWK2M53DVpqhf",
+      "effects": [],
+      "folder": null,
+      "img": "systems/fallout/assets/icons/items/perk.svg",
+      "name": "Rifleman (2)",
+      "system": {
+        "description": "<p>When you make a ranged attack with any two-handed weapon with a Fire Rate of 2 or lower (except heavy weapons), you add +1 CD to the weapon&rsquo;s damage per rank.</p>\n<p>At rank 2, you also add the Piercing 1 damage effect, or add +1 to the rating of any Piercing X damage effect the weapon already had. Each time you take this perk, the level requirement increases by 4.</p>\n<p><strong>Requirements</strong>: AGI 7, Level 2+</p>",
+        "favorite": false,
+        "source": "core_rulebook",
+        "rank": {
+          "max": 2,
+          "value": 1,
+          "levelIncrease": 0,
+          "levelStart": 1
+        },
+        "requirements": "",
+        "requirementsEx": {
+          "level": 2,
+          "levelIncrease": 4,
+          "attributes": {
+            "str": {
+              "value": 0
+            },
+            "per": {
+              "value": 0
+            },
+            "end": {
+              "value": 0
+            },
+            "cha": {
+              "value": 0
+            },
+            "int": {
+              "value": 0
+            },
+            "agi": {
+              "value": 7
+            },
+            "luc": {
+              "value": 0
+            }
+          },
+          "isCompanion": false,
+          "magazineUuids": [],
+          "notGhoul": false,
+          "notHuman": false,
+          "notRadiationImmune": false,
+          "notRobot": false,
+          "notSupermutant": false
+        }
+      },
+      "type": "perk",
+      "_stats": {
+        "compendiumSource": "Compendium.fallout.perks.Item.RkftnkHGKVnz6URN",
+        "duplicateSource": null,
+        "coreVersion": "13.344",
+        "systemId": "fallout",
+        "systemVersion": "11.15.4",
+        "createdTime": 1742128723788,
+        "modifiedTime": 1747332493086,
+        "lastModifiedBy": "RBJrp3FBvEgTIMOL",
+        "exportSource": null
+      },
+      "sort": 0,
+      "flags": {},
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "bANNWKSt91PwFpIx",
+      "effects": [],
+      "folder": null,
+      "img": "systems/fallout/assets/icons/items/perk.svg",
+      "name": "Intense Training (3)",
+      "system": {
+        "description": "<p>Increase any one S.P.E.C.I.A.L attribute by 1 rank. As usual, your S.P.E.C.I.A.L attributes cannot be increased beyond 10 using this method. Each time you take this perk, the level requirement increases by 2.</p>\n<p><strong>Requirements</strong>: Level 2+</p>",
+        "favorite": false,
+        "source": "core_rulebook",
+        "rank": {
+          "max": 10,
+          "value": 1
+        },
+        "requirements": "",
+        "requirementsEx": {
+          "level": 2,
+          "levelIncrease": 2,
+          "attributes": {
+            "str": {
+              "value": 0
+            },
+            "per": {
+              "value": 1
+            },
+            "end": {
+              "value": 0
+            },
+            "cha": {
+              "value": 0
+            },
+            "int": {
+              "value": 0
+            },
+            "agi": {
+              "value": 0
+            },
+            "luc": {
+              "value": 0
+            }
+          },
+          "isCompanion": false,
+          "magazineUuids": [],
+          "notGhoul": false,
+          "notHuman": false,
+          "notRadiationImmune": false,
+          "notRobot": false,
+          "notSupermutant": false
+        }
+      },
+      "type": "perk",
+      "_stats": {
+        "compendiumSource": "Compendium.fallout.perks.Item.P3SMmJulZT5OyArI",
+        "duplicateSource": null,
+        "coreVersion": "13.344",
+        "systemId": "fallout",
+        "systemVersion": "11.15.6",
+        "createdTime": 1747331975322,
+        "modifiedTime": 1747332506328,
+        "lastModifiedBy": "RBJrp3FBvEgTIMOL",
+        "exportSource": null
+      },
+      "sort": 0,
+      "flags": {},
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "9mm",
+      "type": "ammo",
+      "system": {
+        "description": "",
+        "favorite": false,
+        "source": "",
+        "cost": 0,
+        "quantity": 29,
+        "rarity": 0,
+        "stashed": false,
+        "weight": 0,
+        "charges": {
+          "current": 1,
+          "max": 1
+        },
+        "effect": "",
+        "fusionCore": false,
+        "shots": {
+          "current": 1,
+          "max": 1
+        },
+        "quantityRoll": ""
+      },
+      "_id": "ImfPpngp4qk9hFFV",
+      "img": "systems/fallout/assets/icons/items/ammo.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.345",
+        "systemId": "fallout",
+        "systemVersion": "11.16.2",
+        "createdTime": 1747943924233,
+        "modifiedTime": 1752172932786,
+        "lastModifiedBy": "RBJrp3FBvEgTIMOL",
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "9mm Pistol",
+      "type": "weapon",
+      "system": {
+        "description": "",
+        "favorite": false,
+        "source": "",
+        "cost": 20,
+        "quantity": 1,
+        "rarity": 1,
+        "stashed": false,
+        "weight": 1,
+        "equippable": true,
+        "equipped": false,
+        "canBeScrapped": true,
+        "isJunk": false,
+        "ammo": "",
+        "ammoPerShot": 1,
+        "attribute": "",
+        "condition": "",
+        "creatureAttribute": "body",
+        "creatureSkill": "guns",
+        "damage": {
+          "damageEffect": {
+            "arc": {
+              "rank": 0,
+              "value": 0
+            },
+            "breaking": {
+              "rank": 0,
+              "value": 0
+            },
+            "burst": {
+              "rank": 0,
+              "value": 0
+            },
+            "freeze": {
+              "rank": 0,
+              "value": 0
+            },
+            "persistent": {
+              "rank": 0,
+              "value": 0
+            },
+            "piercing_x": {
+              "rank": 1,
+              "value": 0
+            },
+            "radioactive": {
+              "rank": 0,
+              "value": 0
+            },
+            "spread": {
+              "rank": 0,
+              "value": 0
+            },
+            "stun": {
+              "rank": 0,
+              "value": 0
+            },
+            "tranquilize_x": {
+              "rank": 1,
+              "value": 0
+            },
+            "vicious": {
+              "rank": 0,
+              "value": 0
+            },
+            "undefined": {
+              "value": 1
+            }
+          },
+          "damageType": {
+            "energy": false,
+            "physical": true,
+            "poison": false,
+            "radiation": false
+          },
+          "originalDamageType": {
+            "energy": false,
+            "physical": false,
+            "poison": false,
+            "radiation": false
+          },
+          "originalRating": 0,
+          "rating": 4,
+          "weaponQuality": {
+            "accurate": {
+              "rank": 0,
+              "value": 0
+            },
+            "aquatic": {
+              "rank": 0,
+              "value": 0
+            },
+            "ammo_hungry_x": {
+              "rank": 1,
+              "value": 0
+            },
+            "blast": {
+              "rank": 0,
+              "value": 0
+            },
+            "bombard": {
+              "rank": 0,
+              "value": 0
+            },
+            "close_quarters": {
+              "rank": 0,
+              "value": 0
+            },
+            "concealed": {
+              "rank": 0,
+              "value": 0
+            },
+            "debilitating": {
+              "rank": 0,
+              "value": 0
+            },
+            "delay_x": {
+              "rank": 1,
+              "value": 0
+            },
+            "gatling": {
+              "rank": 0,
+              "value": 0
+            },
+            "fuel_x": {
+              "rank": 1,
+              "value": 0
+            },
+            "inaccurate": {
+              "rank": 0,
+              "value": 0
+            },
+            "limited": {
+              "rank": 0,
+              "value": 0
+            },
+            "mine": {
+              "rank": 0,
+              "value": 0
+            },
+            "night_vision": {
+              "rank": 0,
+              "value": 0
+            },
+            "parry": {
+              "rank": 0,
+              "value": 0
+            },
+            "placed": {
+              "rank": 0,
+              "value": 0
+            },
+            "recoil_x": {
+              "rank": 1,
+              "value": 0
+            },
+            "recon": {
+              "rank": 0,
+              "value": 0
+            },
+            "reliable": {
+              "rank": 0,
+              "value": 1
+            },
+            "slow_load": {
+              "rank": 0,
+              "value": 0
+            },
+            "suppressed": {
+              "rank": 0,
+              "value": 0
+            },
+            "surge": {
+              "rank": 0,
+              "value": 0
+            },
+            "thrown": {
+              "rank": 0,
+              "value": 0
+            },
+            "two_handed": {
+              "rank": 0,
+              "value": 0
+            },
+            "unreliable": {
+              "rank": 0,
+              "value": 0
+            },
+            "unstable_radiation": {
+              "rank": 0,
+              "value": 0
+            },
+            "wrangle": {
+              "rank": 0,
+              "value": 0
+            }
+          }
+        },
+        "fireRate": 0,
+        "melee": false,
+        "mods": {
+          "current": 0,
+          "installedMods": "",
+          "list": "",
+          "max": 0,
+          "modded": false
+        },
+        "naturalWeapon": false,
+        "originalAmmoPerShot": 0,
+        "range": "close",
+        "skill": "",
+        "tear": 0,
+        "weaponType": "smallGuns",
+        "quantityRoll": "2"
+      },
+      "_id": "mMrlTuu0RpiESe1H",
+      "img": "systems/fallout/assets/icons/items/weapon.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.344",
+        "systemId": "fallout",
+        "systemVersion": "11.15.6",
+        "createdTime": 1747944957516,
+        "modifiedTime": 1747945093437,
+        "lastModifiedBy": "XPIM5aN65eH5LXee",
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "lGoX9jIoflFRzOCf",
+      "effects": [],
+      "folder": null,
+      "img": "systems/fallout/assets/icons/items/miscellany.svg",
+      "name": "Bobby Pin",
+      "system": {
+        "description": "<p>A flexible double-pronged hairpin, made of metal or plastic, they were used before the Great War to hold hair in place. They&rsquo;re also useful for picking locks if you know how.</p>",
+        "favorite": false,
+        "source": "core_rulebook",
+        "cost": 1,
+        "quantity": 5,
+        "rarity": 0,
+        "stashed": false,
+        "weight": 0,
+        "canBeScrapped": true,
+        "isJunk": false,
+        "effect": "<p>Reduces difficulty of Lockpick tests by 1 (minimum 1), One bobby pin breaks per complication rolled</p>"
+      },
+      "type": "miscellany",
+      "_stats": {
+        "compendiumSource": "Compendium.fallout.miscellany.Item.17BGbljBgFJ3IUS4",
+        "duplicateSource": null,
+        "coreVersion": "13.344",
+        "systemId": "fallout",
+        "systemVersion": "11.15.6",
+        "createdTime": 1747945302955,
+        "modifiedTime": 1747945307898,
+        "lastModifiedBy": "XPIM5aN65eH5LXee",
+        "exportSource": null
+      },
+      "sort": 0,
+      "flags": {},
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Goldener Ring",
+      "type": "miscellany",
+      "system": {
+        "description": "<p>Gravur: Sierra Madre u. 5-bl&auml;ttrige Palme</p>",
+        "favorite": false,
+        "source": "",
+        "cost": 0,
+        "quantity": 1,
+        "rarity": 0,
+        "stashed": false,
+        "weight": 0,
+        "canBeScrapped": true,
+        "isJunk": false,
+        "effect": ""
+      },
+      "_id": "w0Uhi5jR9obMg7gH",
+      "img": "systems/fallout/assets/icons/items/miscellany.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.344",
+        "systemId": "fallout",
+        "systemVersion": "11.15.6",
+        "createdTime": 1749153951263,
+        "modifiedTime": 1749154012101,
+        "lastModifiedBy": "RBJrp3FBvEgTIMOL",
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Notizbuch Sierra Madre Casino",
+      "type": "miscellany",
+      "system": {
+        "description": "",
+        "favorite": false,
+        "source": "",
+        "cost": 0,
+        "quantity": 1,
+        "rarity": 0,
+        "stashed": false,
+        "weight": 0,
+        "canBeScrapped": true,
+        "isJunk": false,
+        "effect": ""
+      },
+      "_id": "DPlurq55RkA427Ln",
+      "img": "systems/fallout/assets/icons/items/miscellany.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.345",
+        "systemId": "fallout",
+        "systemVersion": "11.16.2",
+        "createdTime": 1752170383181,
+        "modifiedTime": 1752170434535,
+        "lastModifiedBy": "RBJrp3FBvEgTIMOL"
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Kronkorken mit leuchtendem Stern",
+      "type": "miscellany",
+      "system": {
+        "description": "",
+        "favorite": false,
+        "source": "",
+        "cost": 0,
+        "quantity": 1,
+        "rarity": 0,
+        "stashed": false,
+        "weight": 0,
+        "canBeScrapped": true,
+        "isJunk": false,
+        "effect": ""
+      },
+      "_id": "U6PIDqiZrdm8HMT2",
+      "img": "systems/fallout/assets/icons/items/miscellany.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.345",
+        "systemId": "fallout",
+        "systemVersion": "11.16.2",
+        "createdTime": 1752170443281,
+        "modifiedTime": 1752170459443,
+        "lastModifiedBy": "RBJrp3FBvEgTIMOL"
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "LdlRHyMReZtbOtis",
+      "effects": [],
+      "folder": null,
+      "img": "systems/fallout/assets/icons/items/perk.svg",
+      "name": "Mister Sandman",
+      "system": {
+        "description": "<p>When you make a sneak attack with a silenced or suppressed weapon, the damage is increased by +2CD. You cannot gain this benefit while in Power Armor.</p>\n<p><strong>Requirements</strong>: AGI 9</p>",
+        "favorite": false,
+        "source": "core_rulebook",
+        "rank": {
+          "max": 1,
+          "value": 0
+        },
+        "requirements": "",
+        "requirementsEx": {
+          "level": 1,
+          "levelIncrease": 0,
+          "attributes": {
+            "str": {
+              "value": 0
+            },
+            "per": {
+              "value": 0
+            },
+            "end": {
+              "value": 0
+            },
+            "cha": {
+              "value": 0
+            },
+            "int": {
+              "value": 0
+            },
+            "agi": {
+              "value": 9
+            },
+            "luc": {
+              "value": 0
+            }
+          },
+          "isCompanion": false,
+          "magazineUuids": [],
+          "notGhoul": false,
+          "notHuman": false,
+          "notRadiationImmune": false,
+          "notRobot": false,
+          "notSupermutant": false
+        }
+      },
+      "type": "perk",
+      "_stats": {
+        "compendiumSource": "Compendium.fallout.perks.Item.ycaluMjkY5xApFFl",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.347",
+        "systemId": "fallout",
+        "systemVersion": "11.16.4",
+        "createdTime": 1756482593203,
+        "modifiedTime": 1756482593203,
+        "lastModifiedBy": "gSrXvI8DhbXayDhu"
+      },
+      "sort": 0,
+      "flags": {},
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "fallout",
+    "systemVersion": "11.16.4",
+    "createdTime": 1737751249526,
+    "modifiedTime": 1760036078752,
+    "lastModifiedBy": "XPIM5aN65eH5LXee",
+    "exportSource": {
+      "worldId": "neuland",
+      "uuid": "Actor.NIUjLEk7Dbx1I0N1",
+      "coreVersion": "13.350",
+      "systemId": "fallout",
+      "systemVersion": "11.16.4"
+    }
+  },
+  "ownership": {
+    "default": 1
+  }
+}
