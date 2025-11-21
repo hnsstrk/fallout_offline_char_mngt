@@ -1,0 +1,1 @@
+# fallout_offline_char_mngt
