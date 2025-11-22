@@ -34,17 +34,22 @@ Thumbs.db
 *.swp
 *.swo
 *~
+.claude/
 
 # Uploads
 uploads/
 *.tmp
 
 # Database backups
+backups/
 *.sql.backup
 *.dump
 
 # PM2
 .pm2/
+
+# Docker
+docker-compose.override.yml
 
 # Misc
 .cache/
