@@ -2,7 +2,17 @@
   "permissions": {
     "allow": [
       "Bash(cat:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$(cat <<''EOF''\nImplement full-stack Fallout TTRPG Character Manager\n\nThis commit adds a complete web application for managing Fallout TTRPG characters exported from FoundryVTT.\n\nBackend features:\n- Node.js + Express + TypeScript server (Port 3100)\n- PostgreSQL database with full schema\n- JWT authentication with bcrypt\n- Role-based access control (Player/GM/Admin)\n- Character import with FVTT JSON validation\n- Diff/merge system for re-importing characters\n- Change log system for tracking all modifications\n- WebSocket service for real-time updates\n- Complete REST API endpoints\n\nFrontend features:\n- React 18 + TypeScript + Vite\n- Tailwind CSS with mobile-first design\n- Authentication flow\n- Character dashboard and detail views\n- WebSocket integration for live updates\n- Zustand store for state management\n\nInfrastructure:\n- Database schema with users, characters, change logs, sessions\n- nginx reverse proxy configuration\n- Deployment documentation\n- Comprehensive README and setup guide\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")",
+      "Bash(git push:*)",
+      "Bash(ssh:*)",
+      "Bash(git fetch:*)",
+      "Bash(docker --version:*)",
+      "Bash(podman --version:*)",
+      "Bash(docker info:*)",
+      "Bash(powershell -Command:*)",
+      "Bash(test:*)",
+      "Bash(chmod:*)"
     ],
     "deny": [],
     "ask": []

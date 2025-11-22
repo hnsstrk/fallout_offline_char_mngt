@@ -1,0 +1,26 @@
+version: '3.8'
+
+services:
+  # PostgreSQL Database for Local Development
+  postgres:
+    image: postgres:15-alpine
+    container_name: fallout_db_dev
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: fallout_char_manager
+      POSTGRES_USER: fallout_user
+      POSTGRES_PASSWORD: fallout_dev_password
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_dev_data:/var/lib/postgresql/data
+      - ./database/schema.sql:/docker-entrypoint-initdb.d/01-schema.sql
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U fallout_user -d fallout_char_manager"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  postgres_dev_data:
+    driver: local
